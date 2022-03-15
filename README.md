@@ -10,4 +10,18 @@
 
 不论你目前有没有遇到过此类问题，相信对你以后处理相关问题都会有所借鉴。
 
+### 因截稿前，最近知识点没有写入书中，读者可通过以下链接获取。
+
+#### MariaDB 10.6 (GA)新特性的变化和改进
+https://blog.51cto.com/hcymysql/4751791
+
+#### ansible-simple简易版
+https://blog.51cto.com/hcymysql/4973090
+
+#### mysql_monitor提供podman镜像
+https://blog.51cto.com/hcymysql/4984088
+
+#### MHA Re-Edition复刻版轻松实现MySQL高可用故障转移
+https://blog.51cto.com/hcymysql/5037430
+
 -----------------------------------
