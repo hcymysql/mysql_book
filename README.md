@@ -24,4 +24,10 @@ https://blog.51cto.com/hcymysql/4984088
 #### 4）MHA Re-Edition复刻版轻松实现MySQL高可用故障转移
 https://blog.51cto.com/hcymysql/5037430
 
+#### 5) 循环分批次批量更改数据10万行记录
+https://github.com/hcymysql/update_10w
+
+#### 6) pt-upgrade检测升级到8.0的SQL语法兼容性
+https://blog.51cto.com/hcymysql/5300422
+
 -----------------------------------
