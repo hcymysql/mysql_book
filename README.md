@@ -30,4 +30,7 @@ https://github.com/hcymysql/update_10w
 #### 6) pt-upgrade检测升级到8.0的SQL语法兼容性
 https://blog.51cto.com/hcymysql/5300422
 
+#### 7）SQL自动审核-自助上线平台
+https://github.com/hcymysql/sqlops
+
 -----------------------------------
