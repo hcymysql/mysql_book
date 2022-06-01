@@ -33,4 +33,7 @@ https://blog.51cto.com/hcymysql/5300422
 #### 7）SQL自动审核-自助上线平台
 https://github.com/hcymysql/sqlops
 
+#### 8) 【王炸功能】MariaDB 10.8 Alter修改表结构实现从库无延迟并行复制
+https://blog.51cto.com/hcymysql/5350905
+
 -----------------------------------
