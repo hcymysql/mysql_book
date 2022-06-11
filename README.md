@@ -36,4 +36,7 @@ https://github.com/hcymysql/sqlops
 #### 8) 【王炸功能】MariaDB 10.8 Alter修改表结构实现从库无延迟并行复制
 https://blog.51cto.com/hcymysql/5350905
 
+#### 9) mydumper支持Stream流式备份恢复
+https://blog.51cto.com/hcymysql/5375537
+
 -----------------------------------
