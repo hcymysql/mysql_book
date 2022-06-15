@@ -39,4 +39,6 @@ https://blog.51cto.com/hcymysql/5350905
 #### 9) mydumper支持Stream流式备份恢复
 https://blog.51cto.com/hcymysql/5375537
 
+#### 10) 借助LogAnalyzer打造轻量级数据库审计日志平台
+https://blog.51cto.com/hcymysql/5385309
 -----------------------------------
