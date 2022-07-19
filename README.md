@@ -1,3 +1,6 @@
+# MySQL 8.0实战运维进阶课程视频
+课程介绍： https://edu.51cto.com/course/31375.html
+
 # MySQL运维进阶指南
 
 《MySQL运维进阶指南》即是《MySQL管理之道：性能调优、高可用与监控（第2版）》一书的第三版。
@@ -43,3 +46,5 @@ https://blog.51cto.com/hcymysql/5375537
 https://blog.51cto.com/hcymysql/5385309
 
 -----------------------------------
+
+
