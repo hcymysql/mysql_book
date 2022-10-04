@@ -1,7 +1,10 @@
 # 购书地址：
-https://item.jd.com/10061845692107.html​​
-http://product.dangdang.com/11276147004.html​​
-http://product.china-pub.com/8090688​​
+https://item.jd.com/10061845692107.html
+
+http://product.dangdang.com/11276147004.html
+
+http://product.china-pub.com/8090688
+
 
 # MySQL 8.0实战运维进阶课程视频
 课程介绍： https://edu.51cto.com/course/31375.html
