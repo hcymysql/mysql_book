@@ -55,6 +55,7 @@ https://blog.51cto.com/hcymysql/5385309
 
 #### 11) MySQL 8.0 还能为你自动创建主键？！
 https://blog.51cto.com/hcymysql/5952924
+
 -----------------------------------
 
 ![image](https://s2.51cto.com/images/202208/340b7709945c9927c757605d9610c08518e481.jpg?x-oss-process=image/watermark,size_14,text_QDUxQ1RP5Y2a5a6i,color_FFFFFF,t_30,g_se,x_10,y_10,shadow_20,type_ZmFuZ3poZW5naGVpdGk=,x-oss-process=image/resize,m_fixed,w_1184)
