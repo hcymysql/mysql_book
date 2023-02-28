@@ -1,6 +1,6 @@
 ![image](https://raw.githubusercontent.com/hcymysql/mysql_book/main/book_chatgpt.png)
 
-<video src="https://jvod.300hu.com/vod/product/a84a3bce-0b23-4487-a7cd-c358be1f3845/2da76849874b4547b07fb61540a2e644.mp4?source=2&h265=h265/113074/bccbac6a61eb492aa965bfee930327ab.mp4" type="video/mp4" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
+https://jvod.300hu.com/vod/product/a84a3bce-0b23-4487-a7cd-c358be1f3845/2da76849874b4547b07fb61540a2e644.mp4?source=2&h265=h265/113074/bccbac6a61eb492aa965bfee930327ab.mp4
 
 
 
